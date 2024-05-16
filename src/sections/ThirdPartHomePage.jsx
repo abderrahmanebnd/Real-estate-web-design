@@ -3,7 +3,7 @@ function ThirdPartHomePage() {
     <section
       className="my-10 bg-white bg-cover bg-center h-96 max-w-6xl m-auto relative"
       style={{
-        backgroundImage: `url('../public/images/bg2.png')`,
+        backgroundImage: `url('/images/bg2.png')`,
       }}
     >
       <div className="bg-white w-96 px-5 py-10 absolute bottom-0 top-20 right-10 rounded-t-2xl ">

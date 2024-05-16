@@ -6,7 +6,7 @@ function FirstPartHomePage() {
       <div
         className="bg-cover bg-center"
         style={{
-          backgroundImage: `url('../public/images/background.png')`,
+          backgroundImage: `url('/images/background.png')`,
         }}
       >
         <div className="absolute top-0 bottom-0 left-0 right-0 bg-black opacity-50 z-0"></div>
